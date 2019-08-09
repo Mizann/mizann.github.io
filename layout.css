@@ -50,8 +50,10 @@ p {
   color: #8d9aa5;
   font-size: 1.4em;
   margin-bottom: 15px;
-  margin-left: 20px;
-  margin-right: auto;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 200px;
+  padding-right: 200px;
   line-height: 1.4;
 }
 
