@@ -49,7 +49,7 @@ h2 {
 
 p {
   color: #8d9aa5;
-  font-size: 3.4em;
+  font-size: 1.4em;
   margin-bottom: 15px;
   margin-left: 50px;
   margin-right: 50px;
@@ -128,21 +128,8 @@ body {
   text-align: center;
 }
 
-h1 {
-  font-weight: 300;
-  margin: 0;
-}
 
 /* Gradient text only on Webkit */
-.warning {
-  background: -webkit-linear-gradient(45deg,  #c97874 10%, #463042 90%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: #8c5059;
-  font-weight: 400;
-  margin: 0 auto 6em;
-  max-width: 9em;
-}
 
 .calculator {
   font-size: 28px;
